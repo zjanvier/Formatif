@@ -9,7 +9,9 @@ public class Exercice
 
 	public static void main(String[] args)
 	{
-		// TODO Auto-generated method stub
+		int []monTab= {3,5,8,99,234};
+		int a =MethodesTableaux.plusPetitIndex(monTab);
+		System.out.println(a);
 
 	}
 
